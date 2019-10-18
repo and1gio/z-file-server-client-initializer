@@ -1,7 +1,7 @@
 {
     "name": "z-file-server-client-initializer",
     "description": "Z File Server Client Initializer",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": {
         "name": "Giorgi Maisuradze"
     },
@@ -16,7 +16,7 @@
         }
     ],
     "dependencies": {
-        "z-file-server-client": "0.0.4"
+        "z-file-server-client": "0.0.5"
     },
     "main": "z-file-server-client-initializer.js"
 }
